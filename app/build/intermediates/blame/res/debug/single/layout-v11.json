@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

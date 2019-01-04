@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "E:\\AndroidStudio\\StudioProjects\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "G:\\Dropbox\\PROY.ANDROID\\AndroidFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    }
+]
